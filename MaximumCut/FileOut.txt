@@ -1,0 +1,8 @@
+Cost of partition 1 :16
+Cost of partition 2 :20
+Cost of both partations :36
+Max Cut is :19
+Weight of whole graph is :55
+The 2 partitions are : 
+V1  V2  V3  
+V4  V5  V6  
